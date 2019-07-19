@@ -53,7 +53,7 @@
 
 ## 视频观看地址
 bilibili：[李宏毅《机器学习》](https://www.bilibili.com/video/av59538266)
-网易云课堂：[李宏毅机器学习中文课程](https://study.163.com/course/courseMain.htm?courseId=1208946807
+网易云课堂：[李宏毅机器学习中文课程](https://study.163.com/course/courseMain.htm?courseId=1208946807)
 
 #  协作规范
 
